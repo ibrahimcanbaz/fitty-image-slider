@@ -3,7 +3,7 @@
 
 
 ## Installation
-This package still needs to be improved. 
+This package still needs to be improved.
 It is inconsistant.
 ```
 npm install fitty-image-slider --save
@@ -21,9 +21,10 @@ npm install fitty-image-slider --save
               mode='fit'//fit or fill for image
               action={this.action} //action for image click
               action2={this.action2} // action for map icon click />
+              showMapBar={true}//show map pointer click bar onr not. default false
+              />
 ```
 
 ## License
 
 MIT
-
