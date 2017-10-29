@@ -1,0 +1,45 @@
+.arrows {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-top: 30px;
+    font-size: 40px;
+    color: white;
+
+}
+.centerImage {
+    display: flex;
+    flex: 5;
+
+}
+
+.image_cont{
+    flex: 6;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.map_cont {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: white;
+    opacity: 0.5;
+
+
+}
+
+.map{
+    margin-bottom: 20px;
+    margin-right: 10px;
+    font-size: 20px;
+    color: #eb3751;
+}
+.map:hover{
+    color: black;
+}
