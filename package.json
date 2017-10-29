@@ -1,6 +1,6 @@
 {
   "name": "fitty-image-slider",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "lib/index.js",
   "license": "MIT",
   "description": "Simple image slider, within box, with arrows.",
@@ -24,5 +24,7 @@
   "bugs": {
     "url": "https://github.com/ibrahimcanbaz/fitty-image-slider/issues"
   },
-  "homepage": "https://github.com/ibrahimcanbaz/fitty-image-slider#readme"
+  "homepage": "https://github.com/ibrahimcanbaz/fitty-image-slider#readme",
+  "devDependencies": {},
+  "dependencies": {}
 }

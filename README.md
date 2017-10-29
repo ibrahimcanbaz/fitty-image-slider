@@ -21,7 +21,7 @@ npm install fitty-image-slider --save
               mode='fit'//fit or fill for image
               action={this.action} //action for image click
               action2={this.action2} // action for map icon click />
-              showMapBar={false}//show map pointer click bar or not. default true
+              mapBar={false}//show map pointer click bar or not. default true
               />
 ```
 
