@@ -83,7 +83,7 @@ export default class FittyImage extends Component {
                     <div onClick={this.nextImage}  className="arrows cursor-pointer fa-angle-right"></div>
                 </div>
 
-                {this.props.showMapBar&&<div className="map_cont" >
+                {!this.props.showMapBar&&<div className="map_cont" >
                     <div onClick={this.showOnMap}  className="map cursor-pointer fa-map-marker"></div>
                 </div>}
             </div>
